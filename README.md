@@ -2,39 +2,20 @@
 
 This is a simple Tic Tac Toe game built using React. It allows two players to take turns marking spaces on a 3x3 grid to try and get three of their marks in a row - horizontally, vertically, or diagonally - before the opponent does.
 
-## How to Play
+![react](img/react_icon.png) ![vite](img/vite_icon.png)
 
-### Clone the Repository:
+### Installation ⚙️
 
-```bash
-git clone https://github.com/your-username/tic-tac-toe-react-app.git
-Navigate to the Project Directory:
-
-bash
-
-cd tic-tac-toe-react-app
-
-Install Dependencies:
-
-bash
-
-npm install
-
-Start the Development Server:
-
-bash
-
-npm start
-
-Open the Game in a Web Browser:
+1. Clone the repository: `git clone https://github.com/Aleksandar1105/tic-tac-toe-react-app`
+2. Open in preferred IDE
+3. Configure project
+4. Start angular application with `npm run dev`
 
 The game should automatically open in your default web browser. If it doesn't, you can access it by typing the following URL in the address bar:
 
-http
-
 http://localhost:5173/
 
-Gameplay:
+### Gameplay:
 
     Player 1 starts the game by clicking on any empty square on the grid.
     Alternate turns between Player 1 (who marks 'X') and Player 2 (who marks 'O').
@@ -50,7 +31,7 @@ Technologies Used
     HTML
     CSS
 
-Additional Information
+### Additional Information
 
 This project was created as a learning exercise to demonstrate building a simple game using React.
 
