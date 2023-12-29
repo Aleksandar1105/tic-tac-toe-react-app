@@ -25,10 +25,12 @@ To restart the game at any point, click the "Restart" button.
 
 ###Technologies Used
 
-    - React: <i class="fab fa-react"></i> 
-    - JavaScript: <i class="fab fa-js-square"></i> 
-    - HTML: <i class="fab fa-html5"></i> 
-    - CSS: <i class="fab fa-css3-alt"></i> 
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <div>
 
 ### Additional Information
 
