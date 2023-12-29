@@ -9,7 +9,7 @@ This is a simple Tic Tac Toe game built using React. It allows two players to ta
 3. Configure project
 4. Start angular application with `npm run dev`
 
-The game should automatically open in your default web browser. If it doesn't, you can access it by typing the following URL in the address bar:http://localhost:5173/
+The game should automatically open in your default web browser. If it doesn't, you can access it by typing the following URL in the address bar: http://localhost:5173/
 
 ### Gameplay:
 
